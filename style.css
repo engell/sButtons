@@ -1,0 +1,30 @@
+#header {
+  margin-top: 20px;
+  cursor: default;
+}
+
+#buttons {
+  margin-top: 30px;
+  padding-bottom: 25px;
+  padding-right: 25px;
+  float: right;
+  cursor: default;
+}
+
+#tmp {
+  font-size: 15px;
+}
+
+.button {
+  width: 40px;
+  height: 40px;
+  padding: 4.8px;
+  border-radius: 10px;
+  cursor: default;
+  z-index: 100;
+}
+
+.a, .a:hover, .a:active, .a:focus {
+  display: inline-block;
+  outline: none;
+}
